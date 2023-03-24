@@ -1,0 +1,11 @@
+<template>
+    <div>
+        <Header/>
+    </div>
+    <div>
+        <HomeView/>
+    </div>
+    <div>
+        <Footer/>
+    </div>
+</template>
